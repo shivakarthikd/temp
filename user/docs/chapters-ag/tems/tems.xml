@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-05-02 06:44:50 UTC</time_utc>
+  <report>
+    <id>211575</id>
+    <title>1st TEMS Core meeting</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE TEMS Society Chapter - Hyderabad Section met for the half-yearly planning session&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Attendees: Aditya, Ch Venkaiah, Ravi&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Admin</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-20 08:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-07-20 09:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>3</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/211575</link>
+  </report>
+  <report>
+    <id>211576</id>
+    <title>Agile Leadership </title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Market changes, competitor dynamics, changing technology, change in workforce are just some changes that businesses experience. This results in increased complexity and uncertainty @Work! Leaders of organizations must deliver more, innovative products and services on a more frequent basis in order to survive and thrive. This webinar is centered around the topic of &amp;lt;strong&amp;gt;Agile Leadership&amp;lt;/strong&amp;gt; to help navigate this ever-changing landscape.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Srikrishna Joshi&amp;lt;/strong&amp;gt;, SAFe Program, Consultant 4.0, TBR, CSP, CSM, CSPO, PMI ACP, PMP, CAL&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Krishna has facilitated 100+ training sessions on Scrum, Agile, Scaled Agile Frameworks for close to 1500+ participants. Krishna is a successful Enterprise agile leader, Coach/Trainer with the 18+ years of industrial experience while working with Servicenow, PegaSystems, IBM, CA Technologies, CSC, Tech Mahindra, NTT Data and extensively travelled on Consulting/Business Development and Scrum, Agile, Scaled Agile Consulting assignments in India, US, UK, Ukraine. He has played multiple leadership consulting roles over the past decade, as a consultant, agile transformation coach, Program/Portfolio Manager for delivery, Pre-sales manager, Test Manager, Business Transition Manager, Business Analyst, Consulting Leader, etc.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Agile, Workshop</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-09 16:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-11-09 17:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>10</ieee_attending>
+    <guests_attending>2</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/211576</link>
+    <speakers>
+      <speaker>
+        <id>470957</id>
+        <display_name>Krishna Joshi</display_name>
+        <topic>
+          <title>Agile Leadership </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>211590</id>
+    <title>Opportunities and challenges for entrepreneurship in the education space in India</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;Our world is changing and changing fast. The original paradigm of education as we know it is quickly getting obsolete as the fundamental assumptions of the &amp;amp;lsquo;why&amp;amp;rsquo;, &amp;amp;lsquo;what&amp;amp;rsquo;, &amp;amp;lsquo;how&amp;amp;rsquo; and &amp;amp;lsquo;where&amp;amp;rsquo; of education are getting questioned and attacked from all sides - especially from the industry, one of the most&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;important stakeholders. Education space (and specifically EdTech) is happening and happening big in India with lot of established large and medium companies, startups and entrepreneurs investing in the space. This space has the potential, especially in a fast-developing country like India with the urgent need to augment the education space where fairly large gaps have been seen after systematic&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;investment by government and the traditional private educational enterprises. Listen in to an early start up story from Abhilash Joseph, who will talk about current trends &amp;amp;amp; opportunities, gaps, funding potential, risks and his experience in general.&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Startup, India, Edutech</keywords>
+    <category>Technical</category>
+    <location>
+      <city>hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-23 17:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-11-23 18:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>8</ieee_attending>
+    <guests_attending>4</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/211590</link>
+    <speakers>
+      <speaker>
+        <id>470985</id>
+        <display_name>Abhilash Joseph</display_name>
+        <organization>Leo &amp; Mike</organization>
+        <topic>
+          <title>Opportunities and challenges for entrepreneurship in the education space in India</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228488</id>
+    <title>1st Admin Meeting</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;1st Admin meeting&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Discussed the plan for the year.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;[19:06, 1/26/2020] Krishna Joshi SNC: Hello People... Just shared the Key-Take-aways from our meeting with us all ..&amp;lt;br /&amp;gt;[19:07, 1/26/2020] Krishna Joshi SNC: I&amp;#39;m thinking that we could do our 1st Agile Workshop on the 27, 28 Feb...Venue: Servicenow Office, Madhapur.&amp;lt;br /&amp;gt;[19:08, 1/26/2020] Krishna Joshi SNC: Given this Timeframe (FEB-end), I need your advice on the best possible Target Audience.&amp;lt;br /&amp;gt;[19:09, 1/26/2020] Krishna Joshi SNC: Is this a Busy season/ Exam Season and hence not a good idea to schedule for the Engineering Student community ? @Ramya IEEE TEMS - Your thoughts please ?&amp;lt;br /&amp;gt;[19:10, 1/26/2020] Krishna Joshi SNC: If not Feb-end, what would be a good timeframe to propose for a Scrum Workshop for teh Student community ? and for the RUN too...(When are the Exams, in general ?)&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>TEMS, IEEE, EXCOM</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-01-26 12:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-01-26 12:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>4</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228488</link>
+  </report>
+  <report>
+    <id>221803</id>
+    <title>One Day workshop on  Innovation and Design Thinking</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;h1&amp;gt;Critical Problems cannot be solved by routine thinking. With the rapid changes in technology, conventional methods used to solve problems are no longer effective. There is a need to develop new ways of thinking in order to design better solutions, services and experiences that solve our current problems. Innovation is the process of creating and implementing a new idea. It is the process of taking useful ideas and converting them into useful products; services or processes or methods of operation. These useful ideas are the result of creativity, which is the prerequisite for innovation.&amp;amp;nbsp;&amp;lt;a href=&amp;quot;https://www.interaction-design.org/literature/topics/design-thinking&amp;quot;&amp;gt;Design Thinking&amp;lt;/a&amp;gt;&amp;amp;nbsp;steps in with a bold newly systematised and non-linear human-centred approach. This will help us radically change how we go about exploring problems and creating solutions to those problems. This workshop will aim at providing a systematic approach to Innovation and Design thinking. People from Industry, Entrepreneurs, Students and Faculty are encouraged to attend this workshop.&amp;lt;/h1&amp;gt;</text>
+    </description>
+    <keywords>Innovation and Design Thinking</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-02-01 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-02-01 16:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>17</ieee_attending>
+    <guests_attending>21</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>MJCET</cosponsor_name>
+    <contact_email64>YWRpdHlhLnIucmFvQGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/221803</link>
+    <speakers>
+      <speaker>
+        <id>491411</id>
+        <display_name>PA Rao</display_name>
+        <email64>cmFvcGFuYW1idXJAZ21haWwuY29t</email64>
+        <organization>NID, Bangalore</organization>
+        <topic>
+          <title>Innovation and Design Thinking</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>219588</id>
+    <title>Workshop on  Innovation and Design Thinking</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;h1&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Abstract and Contents: Critical Problems cannot be solved by routine thinking. With the rapid changes in technology, conventional methods used to solve problems are no longer effective. There is a need to develop new ways of thinking in order to design better solutions, services and experiences that solve our current problems. Innovation is the process of creating and implementing a new idea. It is the process of taking useful ideas and converting them into useful products; services or processes or methods of operation. These useful ideas are the result of creativity, which is the prerequisite for innovation.&amp;amp;nbsp;&amp;lt;a href=&amp;quot;https://www.interaction-design.org/literature/topics/design-thinking&amp;quot;&amp;gt;Design Thinking&amp;lt;/a&amp;gt;&amp;amp;nbsp;steps in with a bold newly systematised and non-linear human-centred approach. This will help us radically change how we go about exploring problems and creating solutions to those problems. This workshop will aim at providing a systematic approach to Innovation and Design thinking. People from Industry, Entrepreneurs, Students and Faculty are encouraged to attend this workshop. The workshop content is as follows.&amp;lt;/span&amp;gt;&amp;lt;/h1&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;What is Innovation and why it is necessary&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Innovation and Creativity: Barriers to Creativity and creativity skills.&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Customer Perceived VALUE; understanding VALUE Perception&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Innovation: how to go about it?&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Design to Innovate.&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;span style=&amp;quot;font-family: arial, helvetica, sans-serif; font-size: 12pt;&amp;quot;&amp;gt;Examples on Innovation across wide fields.&amp;lt;/span&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</text>
+    </description>
+    <keywords>Innovation and Design Thinking</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-02-01 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2020-02-01 16:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>25</ieee_attending>
+    <guests_attending>30</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YWRpdHlhLnIucmFvQGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/219588</link>
+    <speakers>
+      <speaker>
+        <id>486981</id>
+        <display_name>P A Rao</display_name>
+        <email64>cmFvcGFuYW1idXJAZ21haWwuY29t</email64>
+        <topic>
+          <title>Innovation and Design Thinking</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228487</id>
+    <title>2nd Admin Meeting</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Adminstrative meeting 2nd for TEMS EXCom&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Here are minutes of the meeting&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;March 1st week - Need to plan a Session on AI in Servicenow with the help of Surendra. Aditya will take the responsibility and coordinate this.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;April - Need to plan a Session in Vizag. Sashi will deliver a talk. Ramya will take the ownership of all the arragements in Vizag&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Other events in Pipeline for upcoming months.&amp;lt;br /&amp;gt;- Webinar by Ms. Radha(Servicenow)&amp;lt;br /&amp;gt;- Webinar by Chaitanya(Wakefit)&amp;lt;br /&amp;gt;- Workshop on Agile&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;br /&amp;gt;Other ideas and plans inorder to bridge the gap between Student Community and Industry.&amp;lt;br /&amp;gt;- Mock interviewing for the students&amp;lt;br /&amp;gt;- Scrum Workshop&amp;lt;br /&amp;gt;- Soft skills and Leadership Workshop&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;March 1st - Ramya will represent TEMS in Section Executive Committee Meeting.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>TEMS, IEEE, EXCOM</keywords>
+    <category>Administrative</category>
+    <location>
+      <city>hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-02-22 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-02-22 11:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>4</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228487</link>
+  </report>
+  <report>
+    <id>228489</id>
+    <title>Career success in IOT field &amp; Personal Agility </title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;2 sessions were conducted at BITS Pilani Hyderabad on Career success in IOT and Personal Agility.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, IOT, Personal Agility </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-02-22 11:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-02-22 13:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>10</ieee_attending>
+    <guests_attending>40</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>BITS Pilani Hyderabad</cosponsor_name>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228489</link>
+    <speakers>
+      <speaker>
+        <id>504787</id>
+        <display_name>Aditya R</display_name>
+        <topic>
+          <title>Career in IOT</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>504788</id>
+        <display_name>Krishna Joshi</display_name>
+        <topic>
+          <title>Personal Agility </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228491</id>
+    <title>How Agile Promotes Innovation</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;Innovation equals the need to embrace change and embracing change&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;equals being Agile.&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;In today&amp;amp;rsquo;s fast changing, high stakes, world of software development where&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;change can be triggered at any time due to any of the following factors in our&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;environment, like Customer needs/Market/Competition/Technology, we&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;believe that traditional project management doesn&amp;amp;rsquo;t cut it. So what does?&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;Well &amp;amp;ndash; we believe Agile is the answer!&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;Join us for an interactive session to gain insights from the Industry&amp;lt;/p&amp;gt;
+&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;experience of our passionate Agile leader.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Agile</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-10 17:30:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-10 18:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>30</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228491</link>
+    <speakers>
+      <speaker>
+        <id>504791</id>
+        <display_name>Krishna Joshi</display_name>
+        <topic>
+          <title>How Agility improves innovation</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228856</id>
+    <title>7 steps to enable AI in your enterprise</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;7 steps to enable AI in your enterprise&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, AI, India, Hyderabad</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-17 16:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-17 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>22</ieee_attending>
+    <guests_attending>102</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228856</link>
+    <speakers>
+      <speaker>
+        <id>505521</id>
+        <display_name>Surendra Tipparaju</display_name>
+        <topic>
+          <title>7 steps to enable AI in your enterprise</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228858</id>
+    <title>“Leading at Scale - managing priorities in a complex world”</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;Complexity is everywhere. Whether you are leading a large organization or a large project with mulitple stakeholders, managing multiple priorities and executing successfully at scale is a necessary skill in today&amp;#39;s world. Rao Surapaneni(VP Engineering, Head of India Product Operations) will share his experience and tips on how to lead at scale.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Complexity, Management, Scalability, Large Teams, India, Hyderabad</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-21 18:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-21 19:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>30</ieee_attending>
+    <guests_attending>15</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228858</link>
+    <speakers>
+      <speaker>
+        <id>505525</id>
+        <display_name>Rao Surapaneni</display_name>
+        <topic>
+          <title>Leading at Scale - managing priorities in a complex world</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228862</id>
+    <title>“Innovation Ecosystem in India: How India is building a mature startup ecosystem that will shape its economy and its future”</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;*Abstract*&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;About the state of innovation in India. What various institutions at various levels are doing, including state govt and central government department. Also, what does the current opportunity present in terms of challenge and opportunities. What challenges currently the startup world is facing and more.&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;*About the Speaker*&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;Rama Iyer, Chief Innovation Officer, T-Hub&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Rama Iyer is leading the innovation charter for India&amp;#39;s best-known ecosystem brand T-Hub &amp;amp;amp; chalking the course for its 2.0 foray. Also, Advisor, Business &amp;amp;amp; Technology Leader with 20 years of experience, which includes running Incubators, Creating Global &amp;amp;amp; Strategic relationship, Advising Venture Funds, Startup&amp;#39;s, Due diligence, setting up Engineering Teams, Product Management, GTM and devising Strategies. Adept in Delivery Management, Project Management, Business Development, System Engineering, System Design &amp;amp;amp; Development. Worked with Telecom Giants like Nortel, Ericsson, Cisco &amp;amp;amp; Polycom among others. Help global organization leverage APAC talent and marketplace for enhancing their presence and build a bigger marketplace for their global products, solutions and services.&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;br /&amp;gt;Event Timing: April 24st, Friday - 6-7 PM IST&amp;lt;/div&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Complexity, Management, Scalability, Large Teams, India, Hyderabad, Start ups, </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-24 18:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-24 19:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>60</ieee_attending>
+    <guests_attending>28</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228862</link>
+    <speakers>
+      <speaker>
+        <id>505533</id>
+        <display_name>Rama Iyer</display_name>
+        <organization>T-Hub Telangana</organization>
+        <topic>
+          <title>“Innovation Ecosystem in India: How India is building a mature startup ecosystem that will shape its economy and its </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228863</id>
+    <title> 'Lockdown- adversity or opportunity?'  - A peek into what  the Startups, researchers and innovators are  doing during the lockdown</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Abstract &amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;&amp;#39;Lockdown- adversity or opportunity?&amp;#39; - A peek into what the Startups, researchers and innovators are doing during the lockdown, Ramesh Loganathan, Professor Co-Innovation at IIIT Hyderabad. And Chief Innovation Officer (interim) of TS State Innovation Cell&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Speaker&amp;lt;/strong&amp;gt; &amp;lt;br /&amp;gt;Ramesh Loganathan, Professor Co-Innovation at IIIT Hyderabad. And Chief Innovation Officer (interim) of TS State Innovation Cell&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;Ramesh Loganathan &amp;lt;/em&amp;gt;&amp;lt;br /&amp;gt;Professor Co-Innovation at IIIT Hyderabad. And Chief &amp;amp;amp; Innovation Officer (interim) of TS State Innovation Cell. helping start and grow the Technology Transfer Office, Co-Innovation (corp) labs, Entrepreneur on Residence program and the Centre for Innovation &amp;amp;amp; Entrepreneurship. Have been adjunct faculty (middle ware systems) at IIIT-H since 2002, visiting faculty at IIT Hyderabad (Innovation),member of governing board of incubators at IIIT-H, IIT and BITS. Until recently , Center Head (&amp;amp;amp; Vice President- Products), Progress Software&amp;#39;s Hyderabad labs, responsible for leading the product development at the Hyderabad Development center.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;strong&amp;gt;Event Date: 28th April 2020, Tue, 4 PM - 5 PM&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Innovation, Lockdown, Coronavirus, COVID, India, Startup, IIIT,  Hyderabad</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-04-28 16:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-04-28 17:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>12</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228863</link>
+    <speakers>
+      <speaker>
+        <id>505535</id>
+        <display_name>Ramesh Loganathan</display_name>
+        <topic>
+          <title> 'Lockdown- adversity or opportunity?'  - A peek into what  the Startups, researchers and innovators are  doing during t</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>228864</id>
+    <title>'How to use Social Media to build your Business' by Taskeen, CEO at Skillo.</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p class=&amp;quot;p1&amp;quot;&amp;gt;&amp;lt;strong&amp;gt;&amp;#39;How to use Social Media to build your Business&amp;#39; by Taskeen, CEO at Skillo.&amp;lt;/strong&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;Session Take-Aways:&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;- Using Social Media to Scale Up your Business&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;- Creating Content (Different types of videos, Respecting your audience, making it shareable etc..)&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;- Decoding Social Media Formats and Platforms&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;- Let&amp;#39;s get Technical (Analytics)&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;strong&amp;gt;About the Speaker:&amp;lt;/strong&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;em&amp;gt;Taskeen Fatima Basha is the Co-Founder and CEO of the Ed-Tech StartUp, Skillo. It all started when she experienced the gap between corporate and college during her first I.T job. Skillo is a step towards reducing that gap through online educational videos that relate with the Indian Audience. Their proof of concept started as a Youtube Channel which currently has 1.5 Million+ subscribers with their videos about Personal Finance, Interview Preparation and even Communication Skills garnering more than 39 Million+ views.&amp;amp;nbsp;&amp;lt;/em&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;em&amp;gt;&amp;amp;nbsp;&amp;lt;/em&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;lt;em&amp;gt;She started out as an Engineering graduate with 8+ years of Experience and has been a Toastmaster&amp;amp;nbsp;for 5 Years where she represented India at the World Championship of Public Speaking 2012 at Orlando, Florida. Passion is overrated, she says. If you want to find what you love to do, just find a problem that bothers you the most and do everything you can to solve it.&amp;amp;nbsp;&amp;lt;/em&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;&amp;amp;nbsp;&amp;lt;/div&amp;gt;</text>
+    </description>
+    <keywords>IEEE, TEMS, Innovation, Startup, IIIT,  Hyderabad, Women, Social Media, CEO, Entrepreneurship, Startup </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-05-01 18:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-05-01 19:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>58</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>TEM14</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YS5yYW9AY29tcHV0ZXIub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/228864</link>
+    <speakers>
+      <speaker>
+        <id>505537</id>
+        <display_name>Taskeen Bhasha</display_name>
+        <topic>
+          <title>How to use Social Media to build your Business</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+</meeting_reports>

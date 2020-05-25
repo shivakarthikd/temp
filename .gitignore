@@ -1,0 +1,8 @@
+cache/*
+assets/*
+logs/*
+images/*
+!cache/.gitkeep
+!assets/.gitkeep
+!logs/.gitkeep
+!images/.gitkeep

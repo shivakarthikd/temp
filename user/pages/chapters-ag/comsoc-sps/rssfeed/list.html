@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</script>
+    </head>
+<style>
+    
+table,th,td {
+ 
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5;
+}
+</style>
+<body onload="loadXMLDoc()">
+<!-- <div style="background-image: url('/user/themes/ieeehyderabad/img/header-background.JPG');"> -->
+
+  <div>
+    <a href="https://ieeehyderabad.org/">
+    <img src="/user/themes/ieeehyderabad/img/ieee-hyderabad-section-logo.jpg" height=50 width=150 hspace=20 vspace=20>
+    </a>
+  </div>
+</div>
+<br><br>
+<div class="container">
+<table id="demo" class="table"></table>
+
+<script>
+function loadXMLDoc() {
+  var xmlhttps = new XMLHttpRequest();
+  xmlhttps.onreadystatechange = function() {
+    if ( this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xmlhttps.open("GET","/user/docs/chapters-ag/comsoc-sps/com19_sp01.xml", false);
+  xmlhttps.setRequestHeader('Content-Type','application/xml');
+  xmlhttps.send();
+}
+var month_name = function(dt){
+mlist = [ "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ];
+  return mlist[dt.getMonth()];
+};
+function myFunction(xml) {
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table="<tr class="+"text-center"+" style="+"height:10px;"+"><th align=center><h4>S.No.<h4></th><th align="+"left"+"><h4>Events<h4></th><th><h4>Date</h4></th></tr>";
+  var x = xmlDoc.getElementsByTagName("report");
+  var count=1;
+  for (i = x.length-1; i>=0; i--) { 
+  
+    table += "<tr><td align=center>"+ count +"</td><td> <a href=" +
+    x[i].getElementsByTagName("link")[0].childNodes[0].nodeValue +
+    ">"+x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue+"</a></td>"+"<td width=12%>"+ x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(8,10)+"-"+ month_name(new Date(x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,10)))+"-"+x[i].getElementsByTagName("start_time")[0].childNodes[0].nodeValue.slice(0,4)+"</td></tr>";
+    count++;
+  }
+  document.getElementById("demo").innerHTML = table;
+}
+</script>
+</div>
+<br>
+<div class="p-3 mb-2 text-dark" style="background-color:#f4f5f7"> <label >© 2020 IEEE Hyderabad Section. All rights reserved.</label></div>
+</div>
+</body>
+</html>

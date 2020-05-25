@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-04-09 16:21:50 UTC</time_utc>
+  <report>
+    <id>207454</id>
+    <title>1 Day Seminar on Phased Array RADAR Modelling and Simulation</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The one-day seminar event covered Radar functionality, architecture, and performance modelling and analysis using NI-AWR Visual System&amp;lt;br /&amp;gt;Simulator (VSS). Radar issues such as transmitter, antenna pattern, clutter, jamming, propagation, radar cross section, dynamic range, receiver&amp;lt;br /&amp;gt;noise, receiver architecture, waveforms, processing, and target detection are treated in detail using VSS modelling and simulation capabilities.&amp;lt;br /&amp;gt;Advanced topics such as Pulse Doppler, Monopulse Tracking and Phased Array Radar are presented and provided. This seminar was designed for&amp;lt;br /&amp;gt;engineers and scientists who wish to understand and have practice on how to do Radar systems modelling, analysis and familiarize themselves&amp;lt;br /&amp;gt;with the current technological frontiers.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Phase Array Radar, Simulation </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-04-10 09:30:00 Asia/Dili</start_time>
+    <end_time>2019-04-10 16:00:00 Asia/Dili</end_time>
+    <report_time_zone>Asia/Dili</report_time_zone>
+    <ieee_attending>42</ieee_attending>
+    <guests_attending>30</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>AP03/MTT17/EMC27</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Icon Design Automation (NI)</cosponsor_name>
+    <contact_email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</contact_email64>
+    <link>http://events.vtools.ieee.org/m/207454</link>
+    <speakers>
+      <speaker>
+        <id>462725</id>
+        <display_name>Joel Krishman</display_name>
+        <organization>AWR </organization>
+        <topic>
+          <title>Pulse-Doppler Radar System Modelling &amp; Simulation &amp; Monopulse Tracking Radar Modelling &amp; Simulation</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>462726</id>
+        <display_name>Manjunatha Reddy</display_name>
+        <organization>Icon Design Automation </organization>
+        <topic>
+          <title>Introduction to Phased Array Radar &amp; Demonstration &amp; Complete Phased Array Solutions using Integrated Environment </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>216499</id>
+    <title>Technical lecture on 'Electromagnetic Interference &amp; Compatibility : An introduction' during inauguration of MTT Student Chapter at Matrusri Engineering College, Hyderabad</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Technical lecture on &amp;#39;Electromagnetic Interference &amp;amp;amp; Compatibility : An introduction&amp;#39; during inauguration of MTT Student Chapter at Matrusri Engineering College, Hyderabad on 27 July 2019.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>EMI-EMC</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-27 10:22:00 Asia/Dili</start_time>
+    <end_time>2019-07-27 11:30:00 Asia/Dili</end_time>
+    <report_time_zone>Asia/Dili</report_time_zone>
+    <ieee_attending>50</ieee_attending>
+    <guests_attending>30</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>AP03/MTT17/EMC27</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Matrusri Engineering College</cosponsor_name>
+    <contact_email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</contact_email64>
+    <link>http://events.vtools.ieee.org/m/216499</link>
+    <speakers>
+      <speaker>
+        <id>480803</id>
+        <display_name>Sandeep M Satav</display_name>
+        <email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</email64>
+        <organization>DRDO</organization>
+        <topic>
+          <title>An Introduction to Electromagnetic Interference &amp; Compatibility </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>208790</id>
+    <title>Technical Lecture on "Reconfigurable Antennas: Theory, Challenges and Physical Implementation"</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Communication technology has been growing rapidly and current wireless communication systems have ability to achieve multifunctional capabilities with a single system supporting several applications with different operating conditions. However, as each application operates in different frequency band, with different radiation pattern or different polarization, such a single system requires multiple antennas. This is because historically from systems stand point, antenna has been viewed as a static device. Once an antenna design is finalized, its operational characteristics remain unchanged. This has driven innovation in antenna towards multifunction capabilities in competence with the contemporary communication systems. Reconfigurable antenna is a remarkable technology that adds novel features to existing conventional antennas whose characteristics are fixed and remain unchanged. The proposed talk will give an insight on the design and development of various reconfigurable antennas designed for wireless communication systems.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Reconfigurable antenna</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-10-26 16:00:00 Asia/Dili</start_time>
+    <end_time>2019-10-26 18:00:00 Asia/Dili</end_time>
+    <report_time_zone>Asia/Dili</report_time_zone>
+    <ieee_attending>8</ieee_attending>
+    <guests_attending>71</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>AP03/MTT17/EMC27</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</contact_email64>
+    <link>http://events.vtools.ieee.org/m/208790</link>
+    <speakers>
+      <speaker>
+        <id>465395</id>
+        <display_name>Dr. A. Bharathi</display_name>
+        <topic>
+          <title>Technical Lecture on "Reconfigurable Antennas: Theory, Challenges and Physical Implementation"</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>213221</id>
+    <title>9th Sir JC Bose Memorial Lecture on  'Phased Arrays and Related RF Technologies for  mm wave 5G Communication'.</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;It is an annual flagship event of&amp;amp;nbsp;IEEE MTT/AP/EMC- Society&amp;amp;nbsp;Joint Chapter of&amp;amp;nbsp;IEEE Hyderabad Section. It was 9th annual lecture in the series. It is to mark birth anniversary of sir J C Bose, a great Indian scientist in the field of electromagnetics.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Phase array, RF technologies, 5G communication, analog and digital beam scanning, </keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-30 11:00:00 Asia/Dili</start_time>
+    <end_time>2019-11-30 14:00:00 Asia/Dili</end_time>
+    <report_time_zone>Asia/Dili</report_time_zone>
+    <ieee_attending>37</ieee_attending>
+    <guests_attending>12</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>AP03/MTT17/EMC27</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FuZGVlcG0uc2F0YXZAcmNpbGFiLmlu</contact_email64>
+    <link>http://events.vtools.ieee.org/m/213221</link>
+    <speakers>
+      <speaker>
+        <id>474247</id>
+        <display_name>Prof. K J Vinoy, Fellow INAE</display_name>
+        <email64>a2p2aW5veUBpaXNjLmFjLmlu</email64>
+        <organization>IISc, Bangalore</organization>
+        <topic>
+          <title>Phased Arrays and Related RF Technologies for  mm wave 5G Communication</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+</meeting_reports>

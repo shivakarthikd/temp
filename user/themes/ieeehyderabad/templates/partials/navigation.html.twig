@@ -1,0 +1,41 @@
+<nav class="nav navbar navbar-expand-md navbar-light bg-white fixed-top">
+    <a class="navbar-brand" href="https://ieeehyderabad.org/">
+        <img src="{{ url('theme://img/ieee-hyderabad-section-logo.jpg') }}" height="50">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#primary-navbar"
+        aria-controls="primary-navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="primary-navbar">
+        <ul class="navbar-nav ml-auto">
+            {% for item in config.site.navigation %}
+                {% if item == "Home" %}
+                <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                {% else %}
+                    {% if item is iterable %}
+                        {% for mainitem, subitems in item %}
+                        {% set dropslug = mainitem | lower | replace({' ': '-', '/': '-', '(': '', ')': ''}) %}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown-{{ dropslug }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ mainitem }}</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown-{{ dropslug }}">
+                                <ul>
+                                    {% for subitem in subitems %}
+                                        <li><a href="/{{ dropslug }}/{{ subitem | lower | replace({' ': '-', '/': '-', '(': '', ')': ''}) }}">{{ subitem }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    {% else %}
+                    <li class="nav-item">
+                        <a class="nav-link" href="/{{ item | lower | replace({' ': '-', '/': '-', '(': '', ')': ''}) }}">{{ item }}</a>
+                    </li>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</nav>

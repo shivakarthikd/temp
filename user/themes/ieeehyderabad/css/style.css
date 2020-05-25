@@ -1,0 +1,122 @@
+* {
+    font-family: 'Overpass', sans-serif;
+}
+
+.body {
+    background-color: #f9f9f9;
+    padding-top: 75px;
+}
+
+.header {
+    min-height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(/user/themes/ieeehyderabad/img/header-background.jpg);
+}
+
+.header .title {
+    padding-top: 150px;
+    font-size: 60px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.header .lead {
+    padding: 30px 10%;
+    color: #fff;
+    font-weight: 300;
+}
+
+.nav .navbar-nav>.nav-item>.nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.nav .navbar-nav>.nav-item>.nav-link:hover {
+    color: #2C4190;
+}
+
+.nav .navbar-nav .nav-item .dropdown-menu ul {
+    padding: 10px;
+    list-style-type: none;
+}
+
+.nav .navbar-nav .nav-item .dropdown-menu ul li {
+    padding: 5px;
+}
+
+.main .content {
+    margin: 40px 0px;
+    padding: 30px 20px;
+}
+
+.main .content.home-page-content{
+    padding: 20px;
+}
+
+.main .content h1,
+.main .content h2,
+.main .content h3,
+.main .content h4,
+.main .content h5,
+.main .content h6{
+    padding: 10px 0px;
+    color: #2C4190;
+    font-weight: bold;
+}
+
+.main .content p{
+    font-size: 18px;
+}
+
+.main .content table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+}
+
+.main .content table th,
+.main .content table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.main .content table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.main .content table tbody+tbody {
+    border-top: 2px solid #dee2e6;
+}
+
+.main .content table table {
+    background-color: #fff;
+}
+
+.main .content blockquote {
+    border-left: 3px solid #aeaeae;
+    padding-left: 10px;
+}
+
+.main .content img {
+    max-width: 100%;
+}
+
+.main .content table img {
+    max-width: 100px;
+}
+
+.main .content .logos img {
+    max-height: 65px;
+    margin: 45px;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
+
+

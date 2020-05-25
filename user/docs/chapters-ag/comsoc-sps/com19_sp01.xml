@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-04-09 16:22:26 UTC</time_utc>
+  <report>
+    <id>202072</id>
+    <title>Interaction with Prof. K.V.S. Hari</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Communications and Signal Processing Societies Joint Chapter organized an interaction session with Prof. K.V.S. Hari, Professor, IISc Bangalore to understand the opportunities and resources provided by IEEE Signal Processing Society to students, academicians and practising engineers.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Signal Processing Society, Resources</keywords>
+    <category>Nontechnical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-06-22 18:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-06-22 21:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>9</ieee_attending>
+    <guests_attending>2</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/202072</link>
+    <speakers>
+      <speaker>
+        <id>451961</id>
+        <display_name>Prof. K. V. S. Hari</display_name>
+        <topic>
+          <title>Opportunities and Resources offered by IEEE Signal Processing Society</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>202069</id>
+    <title>One day workshop on Digital Signal Processing using Python through Raspberry Pi</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Communications and Signal Processing Societies Joint Chapter in collaboration with IEEE Vizag Bay Sub Section has organized a &amp;amp;ldquo;One day workshop on Digital Signal Processing using Python through Raspberry Pi&amp;amp;rdquo; hosted at IEEE Student Branch, GITAM (Deemed to be University).&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Digital Signal Processing, Python</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Visakhapatnam</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-16 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-07-16 16:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>39</ieee_attending>
+    <guests_attending>16</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/202069</link>
+    <speakers>
+      <speaker>
+        <id>451955</id>
+        <display_name>Dr. G. V. V. Sharma</display_name>
+        <topic>
+          <title>Digital Signal Processing using Python through Raspberry Pi</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206833</id>
+    <title>Channel Coding in 5G - Basics of Coding Theory</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This talk is organized as part of workshop on Channel Coding in 5G. Basics of binary linear block codes are covered including parameters of codes, examples of codes, generator and parity check matrices, maximum likelihood decoding.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Binary block codes, parameters of codes</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vizianagaram</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-24 10:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-08-24 13:15:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>18</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206833</link>
+    <speakers>
+      <speaker>
+        <id>461483</id>
+        <display_name>Dr. Birenjith Sasidharan</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206834</id>
+    <title>Channel Coding in 5G - LDPC Codes</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This talk is organized as part of workshop on Channel Coding in 5G. Basics of LDPC codes are covered including tanner graph of a code, regular LDPC codes, LLRs and belief propagation decoding.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>LDPC Codes, Belief Propagation decoding</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vizianagaram</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-24 14:15:00 Asia/Kolkata</start_time>
+    <end_time>2019-08-24 17:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>18</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206834</link>
+    <speakers>
+      <speaker>
+        <id>461485</id>
+        <display_name>Dr. Lakshmi Prasad Natarajan</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206835</id>
+    <title>Channel Coding in 5G - Polar Codes</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This talk is organized as part of workshop on Channel Coding in 5G. Basics of information theory and polar codes are covered including entropy, mutual information, binary erasure channel, polar transform, channel polarization, successive cancellation decoding.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Polar Codes, Successive cancellation decoding</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vizianagaram</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-25 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-08-25 13:15:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>18</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206835</link>
+    <speakers>
+      <speaker>
+        <id>461487</id>
+        <display_name>Dr. Lalitha Vadlamani</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206415</id>
+    <title>Interaction with Conference committee of Signal Processing Society</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Prof. Peter Willet and Caroline Johnson from IEEE SPS Conference committee visited Hyderabad. Prof. K.V.S Hari, IISc Bangalore hosted the visitors during their visit. ComSoc/SP Society joint chapter organized a dinner getting together people from academia, industry to interact with the visitors and giving their support for hosting conference activities in Hyderabad. Among the attendees include Prof. Yegnanarayana and Prof. Vidyasagar.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Signal Processing Society, Conferences, ICASSP, </keywords>
+    <category>Nontechnical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-31 19:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-08-31 22:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>19</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206415</link>
+  </report>
+  <report>
+    <id>206392</id>
+    <title>Lecture on Compressive sensing and sparse arrays for DOA estimation</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This talk will focus on Sparse Bayesian Learning (SBL) approach to compressive sensing.&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;We will specifically consider the application of direction-of-arrival (DOA) estimation from&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;sensor array measurements.&amp;amp;nbsp;Results from&amp;amp;nbsp;simulation and experimental data&amp;amp;nbsp;demonstrate&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;the super-resolution ability of SBL&amp;amp;nbsp;compared to traditional method such as MUSIC.&amp;amp;nbsp;We&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;also look at sparse arrays such as co-prime and nested arrays and their difference co-array.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Unlike uniform arrays, sparse arrays can identify more sources than the number of sensors&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;as will be seen from simulation and data results&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Compressive Sensing, DOA Estimation, Sparse Bayesian Learning</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Sangareddy</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-07 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-07 12:45:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>22</ieee_attending>
+    <guests_attending>8</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206392</link>
+    <speakers>
+      <speaker>
+        <id>460601</id>
+        <display_name>Dr. Santosh Nannuru</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206395</id>
+    <title>Lecture on achievable results in spatial sensing with a location-unaware mobile sensor</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The lecture deals with sampling of physical fields with mobile sensor, which is an emerging area. The talk introduces and addresses some aspects of a fundamental question: can a spatial field be estimated from samples taken at unknown sampling locations? In a field (signal) sampling setup, unknown sampling locations, sample quantization, unknown bandwidth of the field, and presence of measurement-noise present difficulties in the process of field estimation. Achievability results in terms of mean square error decreasing as function of number of samples are characterized.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Spatial Sensing, Location unaware sensing</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Sangareddy</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-07 14:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-07 17:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>22</ieee_attending>
+    <guests_attending>8</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206395</link>
+    <speakers>
+      <speaker>
+        <id>460607</id>
+        <display_name>Prof. Animesh Kumar</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206397</id>
+    <title>Lecture on Uncertainty Principles in Signal Processing</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The uncertainty principle has been discussed where the both variance based and concentration based measure of uncertainty were considered. The uncertainty principles for continuous and discrete-time functions have been dealt with. The applicability of uncertainity principles in the context of sparse signal processing has been presented.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Uncertainty Principles, discrete time, continuous time</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Sangareddy</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-08 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-08 13:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>25</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206397</link>
+    <speakers>
+      <speaker>
+        <id>460611</id>
+        <display_name>Dr. Aditya Siripuram</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206399</id>
+    <title>Poster Session at HyWIT 2019</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Research students from IIIT Hyderabad and IIT Hyderabad presented around 11 posters as part of HyWIT 2019. 11 posters were presented in the area of index coding, cognitive radios, DOA Estimation, Video quality assessment, deep learning for various applications etc.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Poster session</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Sangareddy</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-08 14:45:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-08 16:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206399</link>
+  </report>
+  <report>
+    <id>206172</id>
+    <title>Bayesian-Inspired NonConvex Methods for Sparse Signal Recovery</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The emergence of compressive sensing and the associated l1 recovery algorithms and theory have generated considerable excitement and interest in their application. This tutorial will examine more recent developments and a complementary set of tools based on a Bayesian framework to address the general problem of sparse signal recovery and the challenges associated with it. The Bayesian methods offer excellent performance and have the flexibility necessary to deal with more general scenarios that often arise in communications related applications.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Sparse Bayesian Learning, Nonconvex methods</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-14 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-14 12:45:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>23</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206172</link>
+    <speakers>
+      <speaker>
+        <id>460161</id>
+        <display_name>Prof. Chandra Murthy</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206176</id>
+    <title>Lecture on Sparse Fourier Transform and Applications</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The lecture considered algorithms for computing discrete fourier transform efficiently when a signal is known to be sparse in the frequency domain. The problem of interest is to compute the DFT of the sparse signal with sample complexity and computational complexity less than those of conventional FFT. One of the algorithms, recently developed, for computing sparse FFT has been reviewed. Subsequently, two applications of sparse FFT have been discussed. The first application dealt with synchronization in GPS, where sparse FFT can be used to reduce the time and power for locking to the location of the GPS receiver. In the second application, the problem of GHz wide spectrum sensing and a solution for the same based on sparse FFT have been presented.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Sparse Fourier Transform</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-14 14:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-14 16:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>8</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206176</link>
+    <speakers>
+      <speaker>
+        <id>460169</id>
+        <display_name>Dr. Lalitha Vadlamani</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206180</id>
+    <title>Lecture on Introduction to Compressed Sensing</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Some recent results have been discussed in this talk. The first result says that under certain conditions, restricted isometry property implies robust nullspace property. In addition, effectiveness of sparse binary matrices for compressed sensing have been discussed.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Compressed Sensing, Robust Null Space Property</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-15 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-15 11:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206180</link>
+    <speakers>
+      <speaker>
+        <id>460177</id>
+        <display_name>Prof. M. Vidyasagar</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206179</id>
+    <title>Lecture on Greedy Pursuit Algorithms for Sparse Signal Processing</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This lecture is organized as part of Hyderabad Workshop on Information Theory (HyWIT) 2019.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;The lecture presented an overview of solving underdetermined system of linear equations. The definition of sparsity has been introduced and the optimization problem formulated. L1-norm based optimization for solving the sparse recovery problem was presented. The popular greedy pursuit algorithms, for solving the sparse recovery problem, like Orthogonal Matching Pursuit(OMP) Subspace Pursuit (SP), CoSamp have been introduced and their performance analysis presented. A Fusion framework to improve the performance has been presented.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Basis Pursuit, Orthogonal Matching Pursuit</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-15 11:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-15 12:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>20</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206179</link>
+    <speakers>
+      <speaker>
+        <id>460175</id>
+        <display_name>Prof. K. V. S. Hari</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>209375</id>
+    <title>Talk on Digital Signal Processing Through Digital Filtering</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The talk dealt with basics of digital signal processing. It will introduce DSP to undergraduate students thorugh concepts of digital filtering. The topics covered include difference equation, IIR filter, FIR filter, Z trasnform, convolution, DFT, FFT.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>DSP, Digital Filtering</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-28 11:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-09-28 12:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>353</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/209375</link>
+    <speakers>
+      <speaker>
+        <id>466565</id>
+        <display_name>Prof. G.V.V. Sharma</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>213835</id>
+    <title>Lecture on Signal Processing Methods for Wireless Channel modelling of Drone-Ground Communication Links</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;div class=&amp;quot;page&amp;quot; title=&amp;quot;Page 1&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;section&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;layoutArea&amp;quot;&amp;gt;
+&amp;lt;div class=&amp;quot;column&amp;quot;&amp;gt;
+&amp;lt;p&amp;gt;In thistalk, we will first consider the challenges of developing a communication system for drone-to-ground links. As a first step, experiments to model the wireless channels for such links are being carried out in IISc. The channel measurement system design and data collection methodology will be presented. Based on the data collection, preliminary channel models based on these measurements will be presented in the talk using signal processing concepts like convolution, correlation.&amp;lt;/p&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;</text>
+    </description>
+    <keywords>Wireless Channels, Drone-to-ground</keywords>
+    <category>Technical</category>
+    <location>
+      <city>East Godavari District</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-10-29 16:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-10-29 17:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>4</ieee_attending>
+    <guests_attending>34</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/213835</link>
+    <speakers>
+      <speaker>
+        <id>475475</id>
+        <display_name>Prof. K.V.S. Hari</display_name>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>221030</id>
+    <title>Lecture on "Introduction to Wireless PHY Layer Signal Design"</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The talk will start with an overview of some important concepts in digital communications. It will be followed by a discussion on the nature of wireless channels. An example of LTE will be discussed to explain how reference signals are designed. The workshop will end with a Matlab demonstration on how channel non-idealities impact signal constellations.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Digital Communications, Wireless channels, Physical Layer</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-01-12 14:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-01-12 15:30:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>10</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>COM19/SP01</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>bGFsaXRoYS52QGlpaXQuYWMuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/221030</link>
+    <speakers>
+      <speaker>
+        <id>489865</id>
+        <display_name>Mr. Sanjeev Nimishakavi</display_name>
+        <organization>Qualcomm India</organization>
+      </speaker>
+    </speakers>
+  </report>
+</meeting_reports>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-02-08 16:29:17 UTC</time_utc>
+  <report>
+    <id>191533</id>
+    <title>IEEE Computer Society - Blockchain workshop</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Computer Society in collaboration with MVSR Engineering College conducting a 2 Day hands on workshop on Blockchain technologies. Training will be given by Cluster IT Solutions.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, CS Chapter, Blockchain</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-02-22 09:30:00 Asia/Calcutta</start_time>
+    <end_time>2019-02-23 16:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>5</ieee_attending>
+    <guests_attending>28</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Sarita Bantu</cosponsor_name>
+    <contact_email64>YnNhcml0aGFfY3NlQG12c3JlYy5lZHUuaW4=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/191533</link>
+    <speakers>
+      <speaker>
+        <id>430873</id>
+        <display_name>Rajanikanth Aluvalu</display_name>
+        <organization>Cluster IT</organization>
+        <topic>
+          <title>Blockchain workshop Basics</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>193676</id>
+    <title>Technical Seminar: Next Generation Cloud Computing</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Next Generation Cloud Computng&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;This session covered What is Cloud Computing , Service models and career plan for students&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Cloud Computing, IEEE</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Tirupati</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-02-23 11:30:00 Asia/Calcutta</start_time>
+    <end_time>2019-02-23 12:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>17</ieee_attending>
+    <guests_attending>290</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>aG9kX2NzZUBzdmNlLmVkdS5pbg==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/193676</link>
+    <speakers>
+      <speaker>
+        <id>435165</id>
+        <display_name>Mr. PavanKumar Allu</display_name>
+        <email64>cGF2YW5hbGx1QGllZWUub3Jn</email64>
+        <organization>Tata Consultancy Services Ltd.</organization>
+        <topic>
+          <title>Next Generation Cloud Computing</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>197800</id>
+    <title>Digital Reality (AR/VR/MR) Workshop</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Computer Society, Hyderabad Section is conceptualizing AR/VR Summit (a.k.a Digital Reality Summit) for Professionals. This program will be executed under IEEE Umbrella @Hyderabad. It will be a Half-Day workshop will be conducted on 11th May&amp;#39;19 where Industry Experts (CEOs, Founders) will share their experiences and future roadmap of Digital Reality&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Digital Reality, IEEE, AR/VR</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-05-11 09:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-05-11 13:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>18</ieee_attending>
+    <guests_attending>6</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/197800</link>
+    <speakers>
+      <speaker>
+        <id>443415</id>
+        <display_name>Ikram</display_name>
+        <topic>
+          <title>Developing AR Apps For Retail Business</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>443416</id>
+        <display_name>Arvind</display_name>
+        <email64>YXJ2aW5kQHVuaXR5M2QuY29t</email64>
+        <organization>Unity Technologies</organization>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>200072</id>
+    <title>Modelling in UML: A practical introduction</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;&amp;amp;nbsp;This session will introduce the Unified Modelling Language (UML) notations and process of building system models, using a practical, hands-on application scenario of building a Conversational System using DialogFlow. The focus will be on modelling a system using UML, with a basic introduction to concepts behind the Conversational System.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>UML, IEEE CS, IEEE</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-06-15 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-06-15 13:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>10</ieee_attending>
+    <guests_attending>24</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YmFsYS5wZWRkaWdhcmlAaWVlZS5vcmc=</contact_email64>
+    <link>http://events.vtools.ieee.org/m/200072</link>
+    <speakers>
+      <speaker>
+        <id>447961</id>
+        <display_name>Edwin</display_name>
+        <email64>ZWR3aW4uYW5hbmRAdGNzLmNvbQ==</email64>
+        <topic>
+          <title>Modelling in UML: A practical introduction</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>200441</id>
+    <title>Myths and Facts on How to Learn Technology (AI &amp; ML)</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;What to learn - when to learn - how to learn is always a challenge and especially with new digital era courses. For example, what to learn in data science which can give job and secure for next 15 years is a big? for fresher to experience, this is not the right way to think about a new technology&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>AI, ML, IEEE</keywords>
+    <category>Technical</category>
+    <location>
+      <city> Secunderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-06-22 10:30:00 Asia/Kolkata</start_time>
+    <end_time>2019-06-22 12:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>12</ieee_attending>
+    <guests_attending>3</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>CSI Hyderabad</cosponsor_name>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/200441</link>
+    <speakers>
+      <speaker>
+        <id>448699</id>
+        <display_name>Madhu Vadlamani</display_name>
+        <email64>bWFkaHUudmFkQGdtYWlsLmNvbQ==</email64>
+        <topic>
+          <title>Myths and Facts on How to Learn Technology</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>201390</id>
+    <title>Robotics and Digital Reality (AR/VR) Workshop</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Computer Society, Hyderabad Section Supported by Vizag Subsection in association with PSCMRCET is conceptualizing one day workshop on Robotics and Digital Reality (AR/VR) @ Potti Sriramulu College of Engineering , Vijayawada on 20th July 2019. Industry Experts (CEOs, Founders) will share their experiences and future roadmap of Robotics and Digital Reality&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Robotics, Digital Reality, IEEE, AR/VR</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-07-20 10:00:00 Asia/Kolkata</start_time>
+    <end_time>2019-07-20 16:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>170</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/201390</link>
+    <speakers>
+      <speaker>
+        <id>450597</id>
+        <display_name>Ikram</display_name>
+        <topic>
+          <title>Humans and Robos together for future world</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>450598</id>
+        <display_name>Arvind</display_name>
+        <organization>Indian Servers</organization>
+        <topic>
+          <title>Augmented Reality in Real Estate Sector</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>202883</id>
+    <title>Technical Seminar on Future Cloud Transformation of Organizations</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This technical seminar was given at BITS (Balaji Institute of Technology Sciences where technical Seminar given on Companies cloud adoption in the IT industry and how Education Institutes have to make the students aware of it and ready for taking up challenging career&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, Cloud</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Warangal</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-09 12:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-08-12 12:45:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>54</ieee_attending>
+    <guests_attending>180</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Saipriya, CS Chair, BITS warangal</cosponsor_name>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/202883</link>
+    <speakers>
+      <speaker>
+        <id>453583</id>
+        <display_name>Pavankumar Allu</display_name>
+        <topic>
+          <title>Technical Seminar on Future Cloud Transformation of Organizations</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>203497</id>
+    <title>Artificial Intelligence Impact in Digital Marketing</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Technical Seminar about AI and its impact in Digital Marketing&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, Digital Marketing</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-21 13:45:00 Asia/Calcutta</start_time>
+    <end_time>2019-08-21 14:45:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>30</ieee_attending>
+    <guests_attending>360</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/203497</link>
+    <speakers>
+      <speaker>
+        <id>454811</id>
+        <display_name>Sagar</display_name>
+        <email64>c2FnYXJ2dEBpZWVlLm9yZw==</email64>
+        <topic>
+          <title>AI and Impact on Digital Marketing</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>204594</id>
+    <title>IEEE Standards Association - AI &amp; ML workshop</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Hyderabad and IEEE Standards Association Bangalore are conducting a half day workshop on Artification intelligence and Machine Learning in T-Hub , IIIT Hyderabad Campus&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>AI , ML, IEEE Standards</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-27 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-09-27 13:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>31</ieee_attending>
+    <guests_attending>63</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>IEEE standards Association</cosponsor_name>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/204594</link>
+    <speakers>
+      <speaker>
+        <id>457005</id>
+        <display_name>Surya Putchala</display_name>
+        <topic>
+          <title>Session on Sales Funnel Analysis : ML approaches</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>457006</id>
+        <display_name>Munir Mohammed</display_name>
+        <email64>bS5tb2hhbW1lZEBpZWVlLm9yZw==</email64>
+        <topic>
+          <title>IEEE Standards Association work on AI &amp; ML</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>207003</id>
+    <title>Edge Intelligence in the IoT</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The proliferation of AI in all aspects of life and work is very visible. Traditional ways of analyzing data and arriving at decisions are being replaced by machine learning (ML). ML has two phases - one, a training phase where a lot of data is used to converge on algorithms to analyze them, and then an inference phase where new data is quickly processed through the algorithm, or &amp;#39;network&amp;#39;, created. In IoT systems, the accent&amp;lt;br /&amp;gt;so far has been on sensing and sending data to cloud servers for processing. The IoT nodes, therefore, were created to efficiently collect and transmit data - the nodes did not have the capability to run either phase of ML algorithms internally. There is a case for carrying out analysis and&amp;amp;nbsp;a first level of decision making at the IoT node or device itself. This &amp;#39;edge intelligence&amp;#39; concept is spreading fast into all kinds of systems - for&amp;lt;br /&amp;gt;example, face recognition, medical diagnostics, industrial control systems, etc.&amp;lt;br /&amp;gt;This talk provides a background to IoT with Edge Intelligence. It then describes how algorithms can be pushed towards the edge, and how hardware structures can be created to carry out energy efficient computation of ML algorithms or deep neural networks. The talk would cover both hardware and software implementations, and would include performance and power optimization considerations.&amp;amp;nbsp;&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IoT, Edge Intelligence, AI</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-10-20 14:30:00 Asia/Calcutta</start_time>
+    <end_time>2019-10-20 16:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>35</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>Z2VldGhhQGh5ZGVyYWJhZC5iaXRzLXBpbGFuaS5hYy5pbg==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/207003</link>
+    <speakers>
+      <speaker>
+        <id>461823</id>
+        <display_name>N Venkatesh</display_name>
+        <organization>Redpine Signals</organization>
+        <topic>
+          <title>Edge Intelligence in IoT</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>212010</id>
+    <title>Experimental Quantum Computing and Quantum Cryptography</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE Hyderabad Quantum Computing Special Interest Group (SIG) is an initiative under the Computer Society Chapter&amp;lt;br /&amp;gt;of IEEE Hyderabad Section. The SIG, supported by IIIT Hyderabad &amp;amp;amp; Microsoft, brings to you an exclusive sessions on&amp;lt;br /&amp;gt;&amp;amp;ldquo;Introduction to Quantum computing&amp;amp;ldquo;. This session will focus on the Basics of Quantum Entanglement, Experimental&amp;lt;br /&amp;gt;Quantum Computing and Quantum Cryptography by manipulating light quanta.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Quantum computing, IEEE, IEEE CS</keywords>
+    <category>Professional</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-16 09:30:00 Asia/Calcutta</start_time>
+    <end_time>2019-11-16 13:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>35</ieee_attending>
+    <guests_attending>85</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>a2V0aGFyYWp1QGllZWUub3Jn</contact_email64>
+    <link>http://events.vtools.ieee.org/m/212010</link>
+    <speakers>
+      <speaker>
+        <id>471825</id>
+        <display_name>Nirman Ganguly</display_name>
+        <topic>
+          <title>“Introduction to Quantum computing“</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>471826</id>
+        <display_name>Urbasi Sinha</display_name>
+        <topic>
+          <title>Urbasi Sinha</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>215194</id>
+    <title>AHCSSC'20 - All Hyderabad Computer Society Student Congress</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;IEEE AHCSSC&amp;#39;20 is third event from IEEE computer Society student congress event with theme as AI, Digital Reality and Robotics. Students and Faculty from 20+ colleges are attending this two day event. Its a flagship event of CS congress&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IEEE, AI, Robotics, Digital Reality, CS Chapter</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2020-01-03 09:00:00 Asia/Kolkata</start_time>
+    <end_time>2020-01-04 16:00:00 Asia/Kolkata</end_time>
+    <report_time_zone>Asia/Kolkata</report_time_zone>
+    <ieee_attending>110</ieee_attending>
+    <guests_attending>121</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>C16</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Anurag Group of Institutions</cosponsor_name>
+    <contact_email64>c2FnYXJ2dEBpZWVlLm9yZw==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/215194</link>
+    <speakers>
+      <speaker>
+        <id>478193</id>
+        <display_name>Rama Devi</display_name>
+        <organization>Telangana Govt.</organization>
+        <topic>
+          <title>Digital Emerging Technolgogies - Career Guidance for students</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>478194</id>
+        <display_name>Surypa Putchala</display_name>
+        <organization>Zettamine Labs</organization>
+        <topic>
+          <title>Essence of Deep learning</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+</meeting_reports>

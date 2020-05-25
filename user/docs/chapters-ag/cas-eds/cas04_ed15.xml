@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meeting_reports>
+  <title>vTools.Meeting Reports, Copyright (c) 2020 by IEEE, All Rights Reserved</title>
+  <time_utc>2020-04-09 16:25:55 UTC</time_utc>
+  <report>
+    <id>207000</id>
+    <title>CAS/ ED Research Forum</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;This Research forum is the fifth in series of research forums organized by IEEE CAS/EDS&amp;lt;br /&amp;gt;Chapter of Hyderabad Section annually. The main objective of this forum is to provide a&amp;lt;br /&amp;gt;structured approach to persons aspiring to do research or currently pursuing research on all&amp;lt;br /&amp;gt;fundamental aspects of research like choosing a research problem, literature survey,&amp;lt;br /&amp;gt;effective techniques in writing conference/journal papers, best practices in Thesis writing&amp;lt;br /&amp;gt;and effective presentation skills. Apart from this, the forum is targeted to PhD students, pre-&amp;lt;br /&amp;gt;doctoral students and Masters leading to PhD students and aspiring researchers with an&amp;lt;br /&amp;gt;opportunity to explore open ended research problems in the area of Circuits and systems.&amp;lt;br /&amp;gt;This will help students and prospective candidates to connect with senior researchers&amp;lt;br /&amp;gt;participating in the forum. It will also stimulate collaborations between students with similar&amp;lt;br /&amp;gt;research interests.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Research Methodologies</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-22 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-08-22 16:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>221</ieee_attending>
+    <guests_attending>20</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>VR Sidhartha College of Engineering and Technology</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/207000</link>
+    <speakers>
+      <speaker>
+        <id>461817</id>
+        <display_name>KrishnaKanth</display_name>
+        <email64>a2suYXZhbHVyQGdtYWlsLmNvbQ==</email64>
+        <organization>ams semiconductors India Pvt. Ltd</organization>
+        <topic>
+          <title>Research Opportunities in Circuits and Systems</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>461818</id>
+        <display_name>Arif Sohel</display_name>
+        <email64>YXJpZi5zb2hlbEBnbWFpbC5jb20=</email64>
+        <organization>MJCET</organization>
+        <topic>
+          <title>Best Practices for Literature survey and Presentations</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206907</id>
+    <title>First Workshop on Advanced IOT with Machine learning</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;workshop: Internet of Things is the next big technology wave in the current circuits and systems world, it is imperative&amp;lt;br /&amp;gt;for engineering faculty and students to keep themselves abreast with this niche technology. IEEE CAS Hyderabad Section has build&amp;lt;br /&amp;gt;expertise in this area and has conducted similar workshops on IoT in various locations in India, Indonesia and Sri Lanka. IEEE&amp;lt;br /&amp;gt;Hyderabad Section has also initiated an India Working Group (IWG) on IEEE Standards 1451 on IoT Harmonization which is led by&amp;lt;br /&amp;gt;Prof. William Miller and Prof. Kang Lee at the International level. The IEEE Hyderabad Section has also established an IoT lab in IEEE&amp;lt;br /&amp;gt;MJCET Student branch and a blueprint of the lab with List of components, List of Experiments, Bill of Materials, lab manual is already&amp;lt;br /&amp;gt;available. It is intended to conduct this workshop on Advanced IoT with Machine learning in four colleges spread across the&amp;lt;br /&amp;gt;Hyderabad section, Vizag Bay Subsection, Guntur Subsection and Ananthapuram Subsection. The main aim is to provide hands - on&amp;lt;br /&amp;gt;training on IoT experiments and also to improve the IEEE CASS Society membership.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IOT and Machine Learning</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Vijayawada</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-08-23 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-08-25 17:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>4</ieee_attending>
+    <guests_attending>29</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>BVC College, Amalapuram</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206907</link>
+    <speakers>
+      <speaker>
+        <id>461631</id>
+        <display_name>Badari</display_name>
+        <email64>Y2hpdHRpYm4yMDAwQGdtYWlsLmNvbQ==</email64>
+        <topic>
+          <title>Advanced IoT</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>461632</id>
+        <display_name>Arif Sohel </display_name>
+        <email64>YXJpZi5zb2hlbEBnbWFpbC5jb20=</email64>
+        <topic>
+          <title>Machine Learning</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>206901</id>
+    <title>Second Workshop on Advance Iot with Machine Learning</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Internet of Things is the next big technology wave in the current circuits and systems world, it is imperative&amp;lt;br /&amp;gt;for engineering faculty and students to keep themselves abreast with this niche technology. IEEE CAS Hyderabad Section has build&amp;lt;br /&amp;gt;expertise in this area and has conducted similar workshops on IoT in various locations in India, Indonesia and Sri Lanka. IEEE&amp;lt;br /&amp;gt;Hyderabad Section has also initiated an India Working Group (IWG) on IEEE Standards 1451 on IoT Harmonization which is led by&amp;lt;br /&amp;gt;Prof. William Miller and Prof. Kang Lee at the International level. The IEEE Hyderabad Section has also established an IoT lab in IEEE&amp;lt;br /&amp;gt;MJCET Student branch and a blueprint of the lab with List of components, List of Experiments, Bill of Materials, lab manual is already&amp;lt;br /&amp;gt;available. It is intended to conduct this workshop on Advanced IoT with Machine learning in four colleges spread across the&amp;lt;br /&amp;gt;Hyderabad section, Vizag Bay Subsection, Guntur Subsection and Ananthapuram Subsection. The main aim is to provide hands - on&amp;lt;br /&amp;gt;training on IoT experiments and also to improve the IEEE CASS Society membership.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IoT, Machine Learning</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-23 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-09-25 17:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>14</guests_attending>
+    <joint_with_branch>true</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>VNR VJIET</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/206901</link>
+    <speakers>
+      <speaker>
+        <id>461619</id>
+        <display_name>Arif Sohel</display_name>
+        <email64>YXJpZi5zb2hlbEBnbWFpbC5jb20=</email64>
+        <topic>
+          <title>Machine Learning for IoT</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>461620</id>
+        <display_name>Muneer</display_name>
+        <email64>bXVuZWVydWRkaW5AbWpjb2xsZWdlLmFjLmlu</email64>
+        <organization>MJCET</organization>
+        <topic>
+          <title>Adavance IoT</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>207002</id>
+    <title>CASS Dinner Meeting with Prof. Subhas Mukopadhyay</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Dinner meeting with Prof. Subhas Mukopadhyaay, IEEE outstanding volunteer awardee for 2019 on best practices in IEEE NSW section and Sensors conference. Hosted by IEEE CAS/ED Chapter Hyderabad Section&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Sensors, Instrumentation Society</keywords>
+    <category>Nontechnical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-09-24 19:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-09-24 21:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>8</ieee_attending>
+    <guests_attending>0</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/207002</link>
+    <speakers>
+      <speaker>
+        <id>461821</id>
+        <display_name>Subhas</display_name>
+        <email64>c3ViaGFzLm11a2hvcGFkaHlheUBtcS5lZHUuYXU=</email64>
+        <organization>Macquarie University, Australia</organization>
+        <topic>
+          <title>Best practices in IEEE NSW section </title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>461822</id>
+        <display_name>Arif Sohel</display_name>
+        <email64>YXJpZi5zb2hlbEBnbWFpbC5jb20=</email64>
+        <organization>MJCET</organization>
+        <topic>
+          <title>Best Practices in CAS Chapter of IEEE Hyderabad Section </title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>207451</id>
+    <title>Technical Talk on Wearable Devices in Healthcare</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;The use of wearable devices is significantly increased to help people for the better monitor of&amp;lt;br /&amp;gt;their health status both at a fitness level for self-health tracking and at a medical level&amp;lt;br /&amp;gt;providing more data to clinicians with a potential for earlier diagnostic and prognostic&amp;lt;br /&amp;gt;purposes. &amp;amp;nbsp;In addition, the ability of wearable for real-time monitoring improving the patient&amp;lt;br /&amp;gt;service and saving lives. In this talk, I will focus on the important aspects of wearable sensors&amp;lt;br /&amp;gt;in monitoring cardio-pulmonary diseases, biomarkers for early diagnostic of different&amp;lt;br /&amp;gt;diseases like epilepsy, sleep disorder breathing, and sensor fusions techniques for denoising&amp;lt;br /&amp;gt;wearable signals and improving its reliability.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Healthcare, Wearable Devices</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-10-23 14:30:00 Asia/Calcutta</start_time>
+    <end_time>2019-10-23 16:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>15</ieee_attending>
+    <guests_attending>25</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>University of Hyderabad</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/207451</link>
+    <speakers>
+      <speaker>
+        <id>462719</id>
+        <display_name>Chandan Karmarkar</display_name>
+        <email64>a2FybWFrYXJAZGVha2luLmVkdS5hdQ==</email64>
+        <organization>Daekin University</organization>
+        <topic>
+          <title>Wearable Devices in Healthcare</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>215353</id>
+    <title>Technical Talk on “Data Converter Design in Nanometer CMOS-Recent Trends”</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;For the last three decades Moore&amp;amp;rsquo;s law has provided the IC industry with smaller, faster, and cheaper transistors, facilitating integration of an increasing number of digital functions, thus propelling the growth of the semiconductor industry. However, this scaling trend poses greater challenges for analog and mixed-signal circuits that interface with real-world signals. The analog to-digital interface is the performance bottleneck in most mixed-signal or communication systems.&amp;lt;br /&amp;gt;We have reached an inflection point in the design of these interfaces: the &amp;amp;ldquo;analog&amp;amp;rdquo; designer must now know much more than analog design. &amp;amp;ldquo;Calibration&amp;amp;rdquo; techniques have been around for a decade or two, where we have begun to incorporate a heavy content of digital signal processing to undo the analog imperfections. This has led to a new generation of analog designers who must be as innovative in the analog domain as in the digital signal processing domain.&amp;lt;br /&amp;gt;This talk will discuss various data converter design techniques to not only meet and exceed the requirements of existing communication standards but also of the upcoming standards like 5G.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>CMOS Data Converter</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-18 16:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-11-18 17:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>10</ieee_attending>
+    <guests_attending>30</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>ams semiconductor pvt. ltd</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/215353</link>
+    <speakers>
+      <speaker>
+        <id>478511</id>
+        <display_name>Bibhu Sahoo</display_name>
+        <email64>YnNhaG9vQGdtYWlsLmNvbQ==</email64>
+        <organization>IITKGP</organization>
+        <topic>
+          <title>Data Converter Design in Nanometer CMOS-Recent Trends</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>215354</id>
+    <title>Workshop on Analog Integrated Circuit Design (Concept to Reality)</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Man-made Digital. God made Analog. Everything we see, feel, hear is an analog signal, which has a definite physical characteristics, frequency content and energy. In the process of extracting useful information in the presence of noisy unwanted signals, we need appropriate signal conditioning. Low-power and precision analog are necessary to design applications with higher performance and longer application lifetimes. The present workshop is designed to give a flavor of the entire IC product development flow and bridging the gap between real world requirements to IC requirements. This workshop is also intended to excite student and modern researchers to focus on VLSI and CMOS Analog IC Design.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Analog IC Design</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-11-22 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-11-23 16:30:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>18</ieee_attending>
+    <guests_attending>44</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Anurag group of Institutions</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/215354</link>
+    <speakers>
+      <speaker>
+        <id>478513</id>
+        <display_name>Veeresh V</display_name>
+        <email64>dmVlcmVzaC52dWxsaWdhZGRhbGFAYW1zLmNvbQ==</email64>
+        <organization>ams semiconductors India Pvt. Ltd</organization>
+        <topic>
+          <title>CMOS Operational Amplifier Design</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>478514</id>
+        <display_name>Krishnakanth</display_name>
+        <organization>ams semiconductor pvt. ltd</organization>
+        <topic>
+          <title>Analog IC Design flow</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>215355</id>
+    <title>One Week Faculty Development Program on  Analog VLSI Design</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Over the last decade, there has been a lot of stress on training of Digital VLSI design with&amp;lt;br /&amp;gt;incorporation of VHDL and Verilog languages and FPGA based design implementation in the&amp;lt;br /&amp;gt;curriculum, thus leading to lot of knowledge transfer programs in the area of digital VLSI Design.&amp;lt;br /&amp;gt;On the other hand, the area of Analog VLSI Design has been traditionally given the back seat due&amp;lt;br /&amp;gt;to various reasons, the prominent among them are difficulty in transistor level circuit design,&amp;lt;br /&amp;gt;access to expensive design software, very few job openings in analog VLSI area etc. However, as&amp;lt;br /&amp;gt;India expands its electronics system design and manufacturing (ESDM) capabilities and with the&amp;lt;br /&amp;gt;governments mantra of &amp;amp;ldquo;MAKE IN INDIA&amp;amp;rdquo;, the number of job opportunities is expected to grow in&amp;lt;br /&amp;gt;the VLSI design area, in not just digital but also analog VLSI design. This FDP aims at dispelling the&amp;lt;br /&amp;gt;myths involved with analog VLSI design and encourages faculty and students to take up research&amp;lt;br /&amp;gt;in this area. Further the focus is to provide practical learning sessions for designing a complete&amp;lt;br /&amp;gt;system and not just a discrete block, as the challenging part is the integration of sub blocks into a&amp;lt;br /&amp;gt;working system. For this purpose this FDP will cover design of single stage amplifiers, Differential&amp;lt;br /&amp;gt;amplifiers, operational amplifiers, integrator, comparator, latch and 1 bit DAC, thermometer to&amp;lt;br /&amp;gt;binary encoder, Resistor string ladder. The last three blocks will then be combined to form a&amp;lt;br /&amp;gt;complete Flash analog to digital converter&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>Cadence Tool Design</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Hyderabad</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-02 09:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-12-07 17:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>5</ieee_attending>
+    <guests_attending>6</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Muffakham Jah College of Engineering and Technology</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/215355</link>
+    <speakers>
+      <speaker>
+        <id>478515</id>
+        <display_name>KrishnaKanth</display_name>
+        <email64>a2suYXZhbHVyQGdtYWlsLmNvbQ==</email64>
+        <organization>ams semiconductors India Pvt. Ltd</organization>
+        <topic>
+          <title>Design of DCDC Buck/Boost Converter </title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>478516</id>
+        <display_name>Azeemuddin</display_name>
+        <email64>YXplZW11ZGRpbi5zQGlpaXQuYWMuaW4=</email64>
+        <organization>IIIT Hyderabad</organization>
+        <topic>
+          <title>Design of Low Noise Amplifier</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+  <report>
+    <id>215351</id>
+    <title>Third CASS Membership Development workshop on Advance Internet of Things with Machine Learning(IoT with ML)</title>
+    <description>
+      <type>HTML</type>
+      <text>&amp;lt;p&amp;gt;Internet of Things is the next big technology wave in the current circuits and systems world, it is imperative for engineering faculty and students to keep themselves abreast with this niche technology. IEEE CAS Hyderabad Section has build expertise in this area and has conducted similar workshops on IoT in various locations in India, Indonesia and Sri Lanka. IEEE Hyderabad Section has also initiated an India Working Group (IWG) on IEEE Standards 1451 on IoT Harmonization which is led by Prof. William Miller and Prof. Kang Lee at the International level. The IEEE Hyderabad Section has also established an IoT lab in IEEE MJCET Student branch and a blueprint of the lab with List of components, List of Experiments, Bill of Materials, lab manual is already available. It is intended to conduct this workshop on Advanced IoT with Machine learning in four colleges spread across the Hyderabad section, Vizag Bay Subsection, Guntur Subsection and Ananthapuram Subsection. The main aim is to provide hands - on training on IoT experiments and also to improve the IEEE CASS Society membership.&amp;lt;/p&amp;gt;</text>
+    </description>
+    <keywords>IOT Machine Learning</keywords>
+    <category>Technical</category>
+    <location>
+      <city>Visakhapatnam</city>
+      <state>AND</state>
+      <country>IN</country>
+    </location>
+    <start_time>2019-12-12 10:00:00 Asia/Calcutta</start_time>
+    <end_time>2019-12-14 16:00:00 Asia/Calcutta</end_time>
+    <report_time_zone>Asia/Calcutta</report_time_zone>
+    <ieee_attending>24</ieee_attending>
+    <guests_attending>50</guests_attending>
+    <joint_with_branch>false</joint_with_branch>
+    <cost>false</cost>
+    <primary_unit>
+      <ou_type>CHAPTER</ou_type>
+      <ou>CAS04/ED15</ou>
+      <parents>
+        <parent>
+          <type>section</type>
+          <name>HYDERABAD</name>
+        </parent>
+        <parent>
+          <type>region</type>
+          <name>10</name>
+        </parent>
+      </parents>
+    </primary_unit>
+    <cosponsor_name>Raghu Institute of Technology, Vizag</cosponsor_name>
+    <contact_email64>YXJpZnNtYWlsYm94QGdtYWlsLmNvbQ==</contact_email64>
+    <link>http://events.vtools.ieee.org/m/215351</link>
+    <speakers>
+      <speaker>
+        <id>478507</id>
+        <display_name>Arif Sohel</display_name>
+        <email64>YXJpZi5zb2hlbEBnbWFpbC5jb20=</email64>
+        <organization>Muffakham Jah College of Engineering and Technology</organization>
+        <topic>
+          <title>Machine Learning for IoT</title>
+        </topic>
+      </speaker>
+      <speaker>
+        <id>478508</id>
+        <display_name>Muneer</display_name>
+        <topic>
+          <title>Adavance IoT</title>
+        </topic>
+      </speaker>
+    </speakers>
+  </report>
+</meeting_reports>

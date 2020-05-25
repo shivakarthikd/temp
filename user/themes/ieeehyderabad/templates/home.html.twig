@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include 'partials/head.html.twig' %}
+<body>
+  {% include 'partials/navigation.html.twig' %}
+  {% for module in page.collection() %}
+    {{ module.content }}
+  {% endfor %}
+  {% include 'partials/footer.html.twig' %}
+  {% include 'partials/scripts.html.twig' %}
+</body>
+</html>
